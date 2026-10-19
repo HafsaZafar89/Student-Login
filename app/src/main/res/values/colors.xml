@@ -4,5 +4,5 @@
     <color name="white">#FFFFFFFF</color>
         <color name="light_lemon_background_color">#BFBA7A</color>
         <color name="grey_color">#2C2C2A</color>
-        <color name="white_background_color">@color/white</color>
+        <color name="skin_background_color">#F8E8D8</color>
 </resources>
